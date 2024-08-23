@@ -1,7 +1,7 @@
 
 
 /// LABELING_SECTION_START
-// https://github.com/puutaro/cmdTerminal.js
+// https://github.com/puutaro/cmdTerminal
 /// LABELING_SECTION_END
 
 
