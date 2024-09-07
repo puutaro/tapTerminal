@@ -1,3 +1,3 @@
 # cmdTerminal
 
-Touch oriented terminal for android @puutaro
+Tap oriented terminal for android @puutaro
